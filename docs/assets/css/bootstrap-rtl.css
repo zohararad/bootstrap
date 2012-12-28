@@ -5515,11 +5515,11 @@ a.thumbnail:hover {
 }
 
 .media .pull-left {
-  margin-left: 10px;
+  margin-right: 10px;
 }
 
 .media .pull-right {
-  margin-right: 10px;
+  margin-left: 10px;
 }
 
 .media-list {
